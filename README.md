@@ -9,7 +9,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 <!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
-| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
+| ~~[23andMe](https://www.23andme.com/careers/) | Mountain View, CA ~~|
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
 | [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA |
 | [Academia](http://www.academia.edu/hiring) | San Francisco, CA |
